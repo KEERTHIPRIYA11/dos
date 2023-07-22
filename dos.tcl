@@ -83,16 +83,3 @@ $ns at 2.5 "$cbr3 stop"
 
 $ns at 3.0 "finish"
 $ns run
-
-
-
-
-
-
-
-
-
-
-
-
-
